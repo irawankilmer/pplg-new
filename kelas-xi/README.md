@@ -22,7 +22,7 @@
 ---
 
 ### 🎯 **Capaian Pembelajaran (CP) Umum – Kelas XI**
-#### 1. **PBO**
+#### 1. [**PBO**](./atp/pbo/README.md)
 
 * Menganalisis konsep OOP: class, object, inheritance, polymorphism
 * Menerapkan prinsip OOP dalam pengembangan aplikasi sederhana

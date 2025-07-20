@@ -2,7 +2,7 @@
 
 ---
 
-### ✅ Kelas XI – Mapel Produktif Wajib
+### ✅ [Kelas XI – Mapel Produktif Wajib](./kelas-xi/README.md)
 
 | No | Mata Pelajaran Produktif Wajib         | Kode | Alokasi Jam |
 | -- | -------------------------------------- | ---- | ----------- |
