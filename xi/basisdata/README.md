@@ -33,7 +33,7 @@ Materi mengacu ke:
 ### 🟩 Semester Genap: Aplikasi dan Manajemen Lanjut
 
 9. **Subquery dan Query Bertingkat (Nested Query)**
-10. **Transaksi (ACID), Komit & Rollback**
+10. **Transaksi (ACID), Komit & Rollback**  
 11. **Indexing dan Optimasi Query**
 12. **Backup & Restore, Import/Export Data**
 13. **Integrasi dengan PHP:** Database connection, query execution, error handling

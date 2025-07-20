@@ -7,8 +7,8 @@
 
 ### 🟦 **Semester Ganjil – Kelas XI**
 
-1. **Konsep Pemodelan & SDLC** — waterfall, incremental, spiral, agile
-2. **Analisis Kebutuhan** — fungsional & non-fungsional, teknik pengumpulan data
+1. [**Konsep Pemodelan & SDLC**](./materi/materi1.md) — waterfall, incremental, spiral, agile
+2. [**Analisis Kebutuhan**](./materi/materi2.md) — fungsional & non-fungsional, teknik pengumpulan data
 3. **Use Case Diagram** — identifikasi aktor & skenario sistem marketplace
 4. **Activity Diagram** — alur checkout dan sistem pembayaran
 5. **Class Diagram** — entitas inti: User, Produk, Order, Cart
