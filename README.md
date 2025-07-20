@@ -1,29 +1,16 @@
-## 📘 Struktur Kurikulum PPLG – Kurikulum Merdeka (2024/2025)
+# Mata Pelajaran Produktif PPLG
+## 📘 **Kelas XI**
+
+1. **Pemodelan Perangkat Lunak**
+2. **Pemrograman Frontend Web**
+3. **Pemrograman Backend Web (PHP Dasar)**
+4. **Pemrograman Berorientasi Objek (OOP)**
+5. **Basis Data**
 
 ---
 
-### ✅ [Kelas XI – Mapel Produktif Wajib](./kelas-xi/README.md)
+## 📘 **Kelas XII**
 
-| No | Mata Pelajaran Produktif Wajib         | Kode | Alokasi Jam |
-| -- | -------------------------------------- | ---- | ----------- |
-| 1  | Pemrograman Berorientasi Objek (PBO)   | C3   | 6 JP/minggu |
-| 2  | Pemrograman Web dan Perangkat Bergerak | C3   | 6 JP/minggu |
-| 3  | Basis Data Lanjutan                    | C3   | 4 JP/minggu |
-| 4  | Desain UI/UX                           | C3   | 4 JP/minggu |
-|    | **Jumlah Total JP Produktif Wajib**    |      | **20 JP**   |
-
-
----
-
-### ✅ Kelas XII – Mapel Produktif Wajib
-
-| No | Mata Pelajaran Produktif Wajib                       | Kode | Alokasi Jam  |
-| -- | ---------------------------------------------------- | ---- | ------------ |
-| 1  | Pengembangan Perangkat Lunak                         | C3   | 6 JP/minggu  |
-| 2  | Pemrograman Mobile Lanjutan                          | C3   | 6 JP/minggu  |
-| 3  | Rekayasa Perangkat Lunak                             | C3   | 4 JP/minggu  |
-| 4  | Proyek Kreatif dan Kewirausahaan (PKK)               | C3   | 4 JP/minggu  |
-| 5  | Praktik Kerja Lapangan (PKL) – Semester Ganjil       | C3   | Full praktik |
-|    | **Jumlah Total JP Produktif Wajib (Semester Genap)** |      | **20 JP**    |
-
----
+1. **Pemrograman Frontend Web Lanjutan**
+2. **Pemrograman Backend Web Lanjutan (OOP + MVC + API)**
+3. **Basis Data Lanjutan**
