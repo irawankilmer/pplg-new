@@ -5,7 +5,7 @@
 2. [**Pemrograman Frontend Web**](./xi/frontend/README.md)
 3. [**Pemrograman Backend Web (PHP Dasar)**](./xi/backend/README.md)
 4. [**Pemrograman Berorientasi Objek (OOP)**](./xi/oop/README.md)
-5. **Basis Data**
+5. [**Basis Data**](./xi/basisdata/README.md)
 
 ---
 
@@ -13,4 +13,4 @@
 
 1. [**Pemrograman Frontend Web Lanjutan**](./xii/frontend/README.md)
 2. [**Pemrograman Backend Web Lanjutan (OOP + MVC + API)**](./xii/backend/README.md)
-3. **Basis Data Lanjutan**
+3. [**Basis Data Lanjutan**](./xii/basisdata/README.md)
