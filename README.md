@@ -171,12 +171,6 @@ Kalau kalian serius belajar dan menguasai semua mapel di atas, kalian bisa:
 
 ---
 
-Paham! Kamu butuh versi yang benar-benar terdengar **manusiawi**, seperti tulisan guru yang menulis langsung buat muridnya, bukan seperti brosur motivasi atau skrip pidato.
-
-Berikut versi penutup yang lebih **natural, masuk akal, dan dekat dengan siswa SMK**:
-
----
-
 ## 🧭 Penutup
 
 Tenang aja, kita nggak langsung bikin hal yang rumit kok. Semuanya dimulai dari dasar, pelan-pelan.
